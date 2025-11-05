@@ -1,0 +1,154 @@
+[
+  {
+    "question": "How can I create an account?",
+    "answer": "Open the app and click on 'Sign Up'. Fill in your details and verify your email or phone number."
+  },
+  {
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Go to the login page and click on 'Forgot Password' to reset it through your registered email or phone."
+  },
+  {
+    "question": "Can I edit my application after submission?",
+    "answer": "Once submitted, applications cannot be edited. You can withdraw and reapply with updated details."
+  },
+  {
+    "question": "How can I track my application status?",
+    "answer": "Go to 'My Applications' in the dashboard to check the current status of your job applications."
+  },
+  {
+    "question": "Does the app send job notifications?",
+    "answer": "Yes, you’ll receive notifications for new job postings and updates on your applications."
+  },
+  {
+    "question": "How can I filter job results?",
+    "answer": "Use the filter option in the Jobs section to search by location, experience, or job type."
+  },
+  {
+    "question": "Are there internships available?",
+    "answer": "Yes, many companies post internships. You can find them under the 'Internships' category."
+  },
+  {
+    "question": "Do I need to pay to apply for jobs?",
+    "answer": "No, applying for jobs on this app is completely free."
+  },
+  {
+    "question": "Can I apply for multiple jobs at once?",
+    "answer": "Yes, you can apply for as many jobs as you want based on your qualifications."
+  },
+  {
+    "question": "What documents are required while applying?",
+    "answer": "Usually your resume, a recent photograph, and sometimes an ID proof or cover letter."
+  },
+  {
+    "question": "What should I include in my resume?",
+    "answer": "Include your contact info, education, work experience, skills, and certifications."
+  },
+  {
+    "question": "How can I improve my resume?",
+    "answer": "Use clear formatting, list achievements with measurable results, and keep it concise."
+  },
+  {
+    "question": "Can I upload multiple resumes?",
+    "answer": "Currently, only one active resume is allowed. You can replace it anytime with a new one."
+  },
+  {
+    "question": "Does the app suggest jobs based on my profile?",
+    "answer": "Yes, the app recommends jobs based on your skills, experience, and preferences."
+  },
+  {
+    "question": "How do I prepare for an HR interview?",
+    "answer": "Be honest, confident, and ready to discuss your background, goals, and company fit."
+  },
+  {
+    "question": "What kind of technical questions are asked?",
+    "answer": "Questions usually cover your specific domain skills, problem-solving, and coding or tool knowledge."
+  },
+  {
+    "question": "How should I dress for an interview?",
+    "answer": "Dress neatly and professionally. Formal attire is recommended unless told otherwise."
+  },
+  {
+    "question": "Can I reschedule my interview?",
+    "answer": "Yes, if the company allows it. Contact the recruiter or support team to request rescheduling."
+  },
+  {
+    "question": "What are some common interview mistakes?",
+    "answer": "Arriving late, not researching the company, and giving vague answers are common mistakes."
+  },
+  {
+    "question": "How can I practice interview questions?",
+    "answer": "Use the app’s 'Interview Preparation' section or refer to common HR and technical questions online."
+  },
+  {
+    "question": "Can I view company details before applying?",
+    "answer": "Yes, each job post includes company information and a brief overview of its culture and goals."
+  },
+  {
+    "question": "How do I know if a company is verified?",
+    "answer": "Verified companies have a green tick badge next to their name in the app."
+  },
+  {
+    "question": "How can I follow a company for updates?",
+    "answer": "Open the company profile and tap 'Follow' to receive notifications of new job postings."
+  },
+  {
+    "question": "Does the app support remote job searches?",
+    "answer": "Yes, you can filter jobs by 'Remote' under the job type filter."
+  },
+  {
+    "question": "What is the best time to apply for jobs?",
+    "answer": "It’s best to apply early after a job is posted to increase your chances of being shortlisted."
+  },
+  {
+    "question": "Can I delete my account?",
+    "answer": "Yes, go to Settings > Account > Delete Account to permanently remove your data."
+  },
+  {
+    "question": "How do I change my profile picture?",
+    "answer": "Go to your Profile, tap on your current photo, and select a new one from your device."
+  },
+  {
+    "question": "Is my data safe on this app?",
+    "answer": "Yes, your personal information is encrypted and stored securely following privacy policies."
+  },
+  {
+    "question": "How can I give feedback about the app?",
+    "answer": "Use the 'Feedback' option in the menu to share your thoughts or report an issue."
+  },
+  {
+    "question": "What if the app crashes or doesn’t open?",
+    "answer": "Try restarting the app or updating it to the latest version. Contact support if the issue continues."
+  },
+  {
+    "question": "Can I save jobs to apply later?",
+    "answer": "Yes, you can bookmark jobs by tapping the save icon and apply later from your saved list."
+  },
+  {
+    "question": "How do I log out of my account?",
+    "answer": "Go to Settings and tap 'Logout' to securely sign out of your account."
+  },
+  {
+    "question": "How can I contact HR directly?",
+    "answer": "If the company allows, you’ll find the HR contact option on the job description page."
+  },
+  {
+    "question": "Does the app support multiple languages?",
+    "answer": "Currently, the app supports English, and more languages will be added soon."
+  },
+  {
+    "question": "Can I share a job post with my friends?",
+    "answer": "Yes, each job post includes a 'Share' button to send the link via WhatsApp or email."
+  },
+  {
+    "question": "How do I know if I’m shortlisted?",
+    "answer": "You’ll receive a notification and see 'Shortlisted' status in your applications tab."
+  },
+  {
+    "question": "What should I do after getting shortlisted?",
+    "answer": "Prepare for the next interview round and keep your contact details up to date."
+  },
+  {
+    "question": "Does the app have premium features?",
+    "answer": "A premium version with resume reviews and priority job recommendations will launch soon."
+  }
+]
