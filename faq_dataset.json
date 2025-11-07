@@ -1,154 +1,1006 @@
 [
   {
-    "question": "How can I create an account?",
-    "answer": "Open the app and click on 'Sign Up'. Fill in your details and verify your email or phone number."
+    "question": "How do I sign up for a new account?",
+    "answer": "Tap on 'Sign Up', enter your basic details, and verify your email or phone number to complete registration."
   },
   {
-    "question": "I forgot my password. How can I reset it?",
-    "answer": "Go to the login page and click on 'Forgot Password' to reset it through your registered email or phone."
+    "question": "Where can I register as a new user?",
+    "answer": "Go to the login screen and select 'Create Account' to start the registration process."
   },
   {
-    "question": "Can I edit my application after submission?",
-    "answer": "Once submitted, applications cannot be edited. You can withdraw and reapply with updated details."
+    "question": "Is email verification required for sign-up?",
+    "answer": "Yes, to ensure your account’s security, verification via email or phone is mandatory."
   },
   {
-    "question": "How can I track my application status?",
-    "answer": "Go to 'My Applications' in the dashboard to check the current status of your job applications."
+    "question": "I didn’t receive a verification code. What should I do?",
+    "answer": "Wait a few minutes and check your spam folder. You can also tap 'Resend Code'."
   },
   {
-    "question": "Does the app send job notifications?",
-    "answer": "Yes, you’ll receive notifications for new job postings and updates on your applications."
+    "question": "Can I log in using my Google account?",
+    "answer": "Yes, you can log in quickly using your Google or LinkedIn account."
   },
   {
-    "question": "How can I filter job results?",
-    "answer": "Use the filter option in the Jobs section to search by location, experience, or job type."
+    "question": "Can I change my login email later?",
+    "answer": "Yes, go to Settings > Account Information > Change Email to update it."
   },
   {
-    "question": "Are there internships available?",
-    "answer": "Yes, many companies post internships. You can find them under the 'Internships' category."
+    "question": "How can I reset my forgotten password?",
+    "answer": "Click 'Forgot Password' on the login page and follow the steps to reset it."
   },
   {
-    "question": "Do I need to pay to apply for jobs?",
-    "answer": "No, applying for jobs on this app is completely free."
+    "question": "I forgot my registered email. How can I recover my account?",
+    "answer": "Contact support with your registered phone number to help retrieve your account."
   },
   {
-    "question": "Can I apply for multiple jobs at once?",
-    "answer": "Yes, you can apply for as many jobs as you want based on your qualifications."
+    "question": "What happens if I enter the wrong password multiple times?",
+    "answer": "Your account may be temporarily locked for security reasons. Wait 15 minutes and try again."
   },
   {
-    "question": "What documents are required while applying?",
-    "answer": "Usually your resume, a recent photograph, and sometimes an ID proof or cover letter."
+    "question": "How can I update my personal information?",
+    "answer": "Go to 'Profile Settings' and edit fields like name, address, or phone number."
   },
   {
-    "question": "What should I include in my resume?",
-    "answer": "Include your contact info, education, work experience, skills, and certifications."
+    "question": "Can I deactivate my account temporarily?",
+    "answer": "Yes, you can deactivate it under Account Settings and reactivate it anytime."
   },
   {
-    "question": "How can I improve my resume?",
-    "answer": "Use clear formatting, list achievements with measurable results, and keep it concise."
+    "question": "What are the steps to delete my account permanently?",
+    "answer": "Navigate to Settings > Account > Delete Account and confirm your action."
   },
   {
-    "question": "Can I upload multiple resumes?",
-    "answer": "Currently, only one active resume is allowed. You can replace it anytime with a new one."
+    "question": "Will deleting my account remove all my data?",
+    "answer": "Yes, deleting your account will permanently remove your applications and saved jobs."
   },
   {
-    "question": "Does the app suggest jobs based on my profile?",
-    "answer": "Yes, the app recommends jobs based on your skills, experience, and preferences."
+    "question": "Is there a way to restore a deleted account?",
+    "answer": "Once deleted, an account cannot be restored. You’ll need to sign up again."
   },
   {
-    "question": "How do I prepare for an HR interview?",
-    "answer": "Be honest, confident, and ready to discuss your background, goals, and company fit."
+    "question": "Can I change my profile name?",
+    "answer": "Yes, go to Profile Settings and edit your display name anytime."
   },
   {
-    "question": "What kind of technical questions are asked?",
-    "answer": "Questions usually cover your specific domain skills, problem-solving, and coding or tool knowledge."
+    "question": "What profile details are visible to employers?",
+    "answer": "Employers can see your resume, name, skills, and experience but not your private info."
   },
   {
-    "question": "How should I dress for an interview?",
-    "answer": "Dress neatly and professionally. Formal attire is recommended unless told otherwise."
+    "question": "How can I make my profile more visible to recruiters?",
+    "answer": "Keep your profile 100% complete and update your skills regularly."
+  },
+  {
+    "question": "Does completing my profile increase job matches?",
+    "answer": "Yes, a complete and detailed profile helps you receive more accurate job suggestions."
+  },
+  {
+    "question": "How do I upload my resume?",
+    "answer": "Tap on 'Upload Resume' in your profile section and select a file from your device."
+  },
+  {
+    "question": "Which file formats are supported for resumes?",
+    "answer": "The app supports PDF, DOC, and DOCX formats for resume uploads."
+  },
+  {
+    "question": "How can I update my resume to a new version?",
+    "answer": "Upload a new file — it will automatically replace your old resume."
+  },
+  {
+    "question": "Why is my resume not uploading?",
+    "answer": "Ensure your file size is below 5MB and in a supported format."
+  },
+  {
+    "question": "Can I add multiple resumes for different job types?",
+    "answer": "Currently, only one resume can be active, but you can replace it anytime."
+  },
+  {
+    "question": "Where can I view my uploaded resume?",
+    "answer": "Your uploaded resume is visible in your Profile section under 'My Documents'."
+  },
+  {
+    "question": "How can I search for jobs?",
+    "answer": "Go to the 'Jobs' tab and enter keywords, job titles, or company names in the search bar."
+  },
+  {
+    "question": "What filters are available in job search?",
+    "answer": "You can filter by location, experience level, job type, and salary range."
+  },
+  {
+    "question": "Can I search jobs based on my skills?",
+    "answer": "Yes, type your skill in the search box to find matching openings."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "Click on the job post, review the description, and tap 'Apply Now'."
+  },
+  {
+    "question": "Can I withdraw an application after applying?",
+    "answer": "Yes, go to 'My Applications' and select 'Withdraw Application'."
+  },
+  {
+    "question": "How will I know if my job application is received?",
+    "answer": "You’ll see a confirmation message and receive an email once your application is submitted."
+  },
+  {
+    "question": "What are the stages of job application?",
+    "answer": "Stages include Submitted, Shortlisted, Interview Scheduled, and Hired or Rejected."
+  },
+  {
+    "question": "Can I apply for a job more than once?",
+    "answer": "No, you can apply only once per job posting unless it’s reposted later."
+  },
+  {
+    "question": "How can I track all my applied jobs?",
+    "answer": "Go to 'My Applications' from the dashboard to view your progress."
+  },
+  {
+    "question": "Do companies get notified when I apply?",
+    "answer": "Yes, recruiters instantly receive your application and resume details."
+  },
+  {
+    "question": "Can I contact recruiters directly?",
+    "answer": "If enabled, the company’s job page includes a 'Contact HR' option."
+  },
+  {
+    "question": "Can I save interesting job posts for later?",
+    "answer": "Yes, tap on the bookmark icon to save them and review later under 'Saved Jobs'."
+  },
+  {
+    "question": "Do saved jobs expire?",
+    "answer": "Yes, saved jobs may expire if the company closes the listing."
+  },
+  {
+    "question": "Will I get notified if a saved job expires?",
+    "answer": "Yes, the app notifies you when a saved or applied job is closed."
+  },
+  {
+    "question": "Can I share a job opening with someone?",
+    "answer": "Yes, use the share icon to send job details through WhatsApp or email."
+  },
+  {
+    "question": "Are job alerts sent via email?",
+    "answer": "Yes, if you enable notifications, alerts are sent via email and in-app notifications."
+  },
+  {
+    "question": "How can I manage notification settings?",
+    "answer": "Go to Settings > Notifications to customize which alerts you want to receive."
+  },
+  {
+    "question": "Can I turn off all job alerts?",
+    "answer": "Yes, disable 'Job Notifications' in your settings to stop receiving alerts."
+  },
+  {
+    "question": "How do I change the job location preference?",
+    "answer": "Go to your profile and update your preferred location under 'Job Preferences'."
+  },
+  {
+    "question": "What types of jobs can I apply for?",
+    "answer": "You can apply for full-time, part-time, internship, and remote roles."
+  },
+  {
+    "question": "Does the app show only verified job listings?",
+    "answer": "Yes, all jobs are verified by the platform before being posted."
+  },
+  {
+    "question": "Can I apply for international jobs?",
+    "answer": "Yes, you can filter jobs by country and apply globally if eligible."
+  },
+  {
+    "question": "What is the meaning of job status 'In Review'?",
+    "answer": "It means your application has been received and is being reviewed by the recruiter."
+  },
+  {
+    "question": "Why am I not getting shortlisted?",
+    "answer": "Ensure your resume matches the job description and your profile is complete."
+  },
+  {
+    "question": "How can I increase my chances of getting shortlisted?",
+    "answer": "Apply early, tailor your resume for each job, and keep your skills updated."
+  },
+  {
+    "question": "What should I do after getting shortlisted for an interview?",
+    "answer": "Prepare for the next round, check your email for interview details, and confirm your availability."
+  },
+  {
+    "question": "How will I get interview notifications?",
+    "answer": "You’ll receive both an in-app and email notification once your interview is scheduled."
+  },
+  {
+    "question": "Where can I find my interview schedule?",
+    "answer": "Go to the 'My Interviews' section to view the date, time, and mode of your interview."
   },
   {
     "question": "Can I reschedule my interview?",
-    "answer": "Yes, if the company allows it. Contact the recruiter or support team to request rescheduling."
+    "answer": "Yes, if the employer allows rescheduling, you can request a new slot from the interview tab."
   },
   {
-    "question": "What are some common interview mistakes?",
-    "answer": "Arriving late, not researching the company, and giving vague answers are common mistakes."
+    "question": "Can I cancel an interview?",
+    "answer": "Yes, go to your scheduled interview details and choose 'Cancel Interview'."
   },
   {
-    "question": "How can I practice interview questions?",
-    "answer": "Use the app’s 'Interview Preparation' section or refer to common HR and technical questions online."
+    "question": "What happens if I miss my interview?",
+    "answer": "If you miss your slot, contact the recruiter to request rescheduling, if possible."
   },
   {
-    "question": "Can I view company details before applying?",
-    "answer": "Yes, each job post includes company information and a brief overview of its culture and goals."
+    "question": "Does the app provide interview tips?",
+    "answer": "Yes, visit the 'Interview Preparation' section for tips and common questions."
   },
   {
-    "question": "How do I know if a company is verified?",
-    "answer": "Verified companies have a green tick badge next to their name in the app."
+    "question": "Are there practice interviews available?",
+    "answer": "Yes, you can take mock interview quizzes in the 'Preparation' section."
   },
   {
-    "question": "How can I follow a company for updates?",
-    "answer": "Open the company profile and tap 'Follow' to receive notifications of new job postings."
+    "question": "Can I see feedback from recruiters after an interview?",
+    "answer": "If recruiters share feedback, it will appear in your application status under 'Interview Feedback'."
   },
   {
-    "question": "Does the app support remote job searches?",
-    "answer": "Yes, you can filter jobs by 'Remote' under the job type filter."
+    "question": "What if I don’t hear back after the interview?",
+    "answer": "Recruiters may take time to respond. You can send a polite follow-up message via the app."
   },
   {
-    "question": "What is the best time to apply for jobs?",
-    "answer": "It’s best to apply early after a job is posted to increase your chances of being shortlisted."
+    "question": "Can I attend interviews online through the app?",
+    "answer": "Yes, if the company uses in-app video interviews, the meeting link appears in your schedule."
   },
   {
-    "question": "Can I delete my account?",
-    "answer": "Yes, go to Settings > Account > Delete Account to permanently remove your data."
+    "question": "Is video interview supported in the app?",
+    "answer": "Yes, you can join online interviews using the built-in video meeting feature."
   },
   {
-    "question": "How do I change my profile picture?",
-    "answer": "Go to your Profile, tap on your current photo, and select a new one from your device."
+    "question": "Can I test my camera and mic before the interview?",
+    "answer": "Yes, a test option appears before the video call begins to check your setup."
   },
   {
-    "question": "Is my data safe on this app?",
-    "answer": "Yes, your personal information is encrypted and stored securely following privacy policies."
+    "question": "What are the technical requirements for video interviews?",
+    "answer": "You need a stable internet connection, webcam access, and an updated version of the app."
   },
   {
-    "question": "How can I give feedback about the app?",
-    "answer": "Use the 'Feedback' option in the menu to share your thoughts or report an issue."
+    "question": "Are phone interviews also listed in the app?",
+    "answer": "Yes, the app displays interview mode as 'Phone' along with contact details."
   },
   {
-    "question": "What if the app crashes or doesn’t open?",
-    "answer": "Try restarting the app or updating it to the latest version. Contact support if the issue continues."
+    "question": "What kind of HR questions should I expect?",
+    "answer": "Expect questions about your strengths, weaknesses, goals, and work preferences."
   },
   {
-    "question": "Can I save jobs to apply later?",
-    "answer": "Yes, you can bookmark jobs by tapping the save icon and apply later from your saved list."
+    "question": "How do I prepare for a technical interview?",
+    "answer": "Review core concepts, practice problem-solving, and go through project examples."
   },
   {
-    "question": "How do I log out of my account?",
-    "answer": "Go to Settings and tap 'Logout' to securely sign out of your account."
+    "question": "Where can I find company details before an interview?",
+    "answer": "Each job post includes company info and a link to its official website."
   },
   {
-    "question": "How can I contact HR directly?",
-    "answer": "If the company allows, you’ll find the HR contact option on the job description page."
+    "question": "Does the app show company ratings?",
+    "answer": "Yes, company profiles display user ratings and reviews if available."
   },
   {
-    "question": "Does the app support multiple languages?",
-    "answer": "Currently, the app supports English, and more languages will be added soon."
+    "question": "Can I rate a company after an interview?",
+    "answer": "Yes, after completing the interview, you can rate your experience in the app."
   },
   {
-    "question": "Can I share a job post with my friends?",
-    "answer": "Yes, each job post includes a 'Share' button to send the link via WhatsApp or email."
+    "question": "How can I follow a company for future openings?",
+    "answer": "Open the company profile and tap 'Follow' to get job updates from that employer."
   },
   {
-    "question": "How do I know if I’m shortlisted?",
-    "answer": "You’ll receive a notification and see 'Shortlisted' status in your applications tab."
+    "question": "Can I unfollow a company later?",
+    "answer": "Yes, tap 'Following' again to unfollow and stop receiving updates."
   },
   {
-    "question": "What should I do after getting shortlisted?",
-    "answer": "Prepare for the next interview round and keep your contact details up to date."
+    "question": "Are internships posted in this app?",
+    "answer": "Yes, companies regularly post internship opportunities for students and freshers."
   },
   {
-    "question": "Does the app have premium features?",
-    "answer": "A premium version with resume reviews and priority job recommendations will launch soon."
+    "question": "How can I find internship jobs?",
+    "answer": "Use filters and select 'Internship' under the job type category."
+  },
+  {
+    "question": "Do internships come with stipends?",
+    "answer": "Some internships offer stipends; details are mentioned in the job description."
+  },
+  {
+    "question": "Can I apply for both jobs and internships?",
+    "answer": "Yes, you can apply for both based on your interests and eligibility."
+  },
+  {
+    "question": "How do I know if I’m eligible for an internship?",
+    "answer": "Eligibility criteria like education or year of study are mentioned in the internship listing."
+  },
+  {
+    "question": "Are remote internships available?",
+    "answer": "Yes, you can filter by 'Remote' in the internship search section."
+  },
+  {
+    "question": "Can I upload a cover letter while applying?",
+    "answer": "Yes, you can attach a cover letter along with your resume during application."
+  },
+  {
+    "question": "Is a cover letter mandatory for all jobs?",
+    "answer": "No, only some companies request a cover letter; it’s optional otherwise."
+  },
+  {
+    "question": "How can I write a good cover letter?",
+    "answer": "Focus on your achievements, express genuine interest, and keep it short and relevant."
+  },
+  {
+    "question": "Can I save my cover letter templates?",
+    "answer": "Yes, you can save and reuse your cover letter templates for future applications."
+  },
+  {
+    "question": "Does the app have resume templates?",
+    "answer": "Yes, you can create your resume using built-in templates under 'Resume Builder'."
+  },
+  {
+    "question": "Can I edit my resume after creating it in the app?",
+    "answer": "Yes, you can edit, update, or download it anytime from the Resume Builder section."
+  },
+  {
+    "question": "Will recruiters see my resume created inside the app?",
+    "answer": "Yes, resumes made within the app are automatically linked to your applications."
+  },
+  {
+    "question": "Does the app offer AI-based resume reviews?",
+    "answer": "Yes, premium users can get AI-powered suggestions to improve their resumes."
+  },
+  {
+    "question": "How can I improve my resume score?",
+    "answer": "Add more measurable results, relevant skills, and complete missing profile fields."
+  },
+  {
+    "question": "What are common resume mistakes to avoid?",
+    "answer": "Avoid spelling errors, long paragraphs, and irrelevant personal details."
+  },
+  {
+    "question": "Can I download my resume as a PDF?",
+    "answer": "Yes, your resume can be exported in PDF format for offline use."
+  },
+  {
+    "question": "How do I change my display photo?",
+    "answer": "Open your Profile, tap your photo, and choose a new picture from your gallery."
+  },
+  {
+    "question": "Is it necessary to upload a profile picture?",
+    "answer": "It’s optional, but having a professional photo improves recruiter engagement."
+  },
+  {
+    "question": "What type of photo is best for my profile?",
+    "answer": "Use a clear, professional-looking headshot with a plain background."
+  },
+  {
+    "question": "How can I verify my phone number?",
+    "answer": "Go to Profile > Verify Phone, enter the OTP sent to your registered number."
+  },
+  {
+    "question": "Do I need to verify both email and phone number?",
+    "answer": "Verifying both improves security and helps recover your account easily."
+  },
+  {
+    "question": "Can I use the same account on multiple devices?",
+    "answer": "Yes, just log in with the same credentials; your data stays synced."
+  },
+  {
+    "question": "Does the app save my login session?",
+    "answer": "Yes, unless you log out manually or clear app data, your session stays active."
+  },
+  {
+    "question": "Can someone else access my account?",
+    "answer": "No, unless they know your credentials. Always keep your login details private."
+  },
+  {
+    "question": "What should I do if I suspect unauthorized access?",
+    "answer": "Immediately change your password and report the issue to support."
+  },
+  {
+    "question": "How do I contact support for help?",
+    "answer": "Go to Help Center > Contact Us and choose chat, email, or call support options."
+  },
+  {
+    "question": "What is the usual response time for support?",
+    "answer": "Our team typically replies within 24 hours of receiving your query."
+  },
+  {
+    "question": "Can I report a fake job posting?",
+    "answer": "Yes, tap on the three-dot menu on the job post and choose 'Report Job'."
+  },
+  {
+    "question": "What happens after I report a job?",
+    "answer": "Our moderation team reviews it and removes it if it violates our posting rules."
+  },
+  {
+    "question": "Are fake companies banned from the platform?",
+    "answer": "Yes, verified checks and strict moderation ensure fake companies are removed."
+  },
+  {
+    "question": "How can I check company authenticity before applying?",
+    "answer": "Look for the green verification badge and review company ratings and feedback before applying."
+  },
+  {
+    "question": "Does the app verify all employers?",
+    "answer": "Yes, all registered employers go through a verification process before posting jobs."
+  },
+  {
+    "question": "Can I see the salary before applying for a job?",
+    "answer": "Yes, if disclosed by the company, the salary range appears on the job post."
+  },
+  {
+    "question": "Why do some jobs not show a salary range?",
+    "answer": "Some companies prefer to reveal salary details during the interview process."
+  },
+  {
+    "question": "Can I negotiate my salary through the app?",
+    "answer": "No, salary negotiations happen directly between you and the recruiter outside the app."
+  },
+  {
+    "question": "Are part-time jobs available?",
+    "answer": "Yes, you can filter results by selecting 'Part-Time' under job type."
+  },
+  {
+    "question": "Can I get freelance projects on this app?",
+    "answer": "Yes, you can find freelance or contract-based job listings in the job filter."
+  },
+  {
+    "question": "Does the app support government job listings?",
+    "answer": "Currently, only private and corporate job listings are supported. Government listings may be added later."
+  },
+  {
+    "question": "Can I search for startup jobs?",
+    "answer": "Yes, you can search by company type or keyword 'Startup' to find such roles."
+  },
+  {
+    "question": "Are remote jobs available in every category?",
+    "answer": "Yes, remote options are available across most domains like IT, design, and writing."
+  },
+  {
+    "question": "How can I set my preferred job location?",
+    "answer": "Go to Profile > Job Preferences > Location and add your preferred cities or regions."
+  },
+  {
+    "question": "Will I get notified if a job matches my skills?",
+    "answer": "Yes, skill-matched jobs appear in your 'Recommended for You' section."
+  },
+  {
+    "question": "Can I customize job alerts?",
+    "answer": "Yes, you can customize alerts based on keywords, role, and location under Notification Settings."
+  },
+  {
+    "question": "Can I mute notifications temporarily?",
+    "answer": "Yes, toggle 'Pause Notifications' in your app settings to mute them for a while."
+  },
+  {
+    "question": "How do I reactivate paused notifications?",
+    "answer": "Go back to Settings and switch the 'Pause Notifications' option off."
+  },
+  {
+    "question": "Why am I not receiving job alerts?",
+    "answer": "Check your app notification permissions and ensure alerts are enabled in settings."
+  },
+  {
+    "question": "Can I subscribe to weekly job summaries?",
+    "answer": "Yes, turn on the 'Weekly Job Digest' option in the notification preferences."
+  },
+  {
+    "question": "How do I mark a job as 'Not Interested'?",
+    "answer": "Tap the three-dot menu on the job post and select 'Not Interested'."
+  },
+  {
+    "question": "Will the app stop suggesting similar jobs if I mark them 'Not Interested'?",
+    "answer": "Yes, the app learns your preferences and avoids suggesting similar roles."
+  },
+  {
+    "question": "Can I undo a 'Not Interested' action?",
+    "answer": "Yes, go to your activity log and restore the job suggestion manually."
+  },
+  {
+    "question": "How do I check my app version?",
+    "answer": "Go to Settings > About App to view your current version details."
+  },
+  {
+    "question": "How do I update the app to the latest version?",
+    "answer": "Visit the Play Store or App Store and tap 'Update' if a new version is available."
+  },
+  {
+    "question": "Is it safe to update the app from third-party sources?",
+    "answer": "No, always update only through official app stores to ensure safety."
+  },
+  {
+    "question": "Why does the app log me out automatically?",
+    "answer": "For security reasons, inactive sessions are auto-logged out after a certain period."
+  },
+  {
+    "question": "Can I stay logged in permanently?",
+    "answer": "Yes, enable 'Remember Me' during login to stay signed in on your device."
+  },
+  {
+    "question": "How can I clear cache or app data?",
+    "answer": "Go to device Settings > Apps > [App Name] > Storage > Clear Cache or Data."
+  },
+  {
+    "question": "Why is the app loading slowly?",
+    "answer": "It may be due to weak internet or temporary server load. Try refreshing or reconnecting."
+  },
+  {
+    "question": "Does the app work offline?",
+    "answer": "Basic sections like saved jobs are available offline, but applying requires internet access."
+  },
+  {
+    "question": "Can I download job details for offline viewing?",
+    "answer": "Yes, tap on 'Download Job Details' to save them as a PDF for offline access."
+  },
+  {
+    "question": "Does the app collect my location data?",
+    "answer": "Only if you enable it for personalized job recommendations."
+  },
+  {
+    "question": "How can I disable location tracking?",
+    "answer": "Go to App Permissions and turn off Location Access."
+  },
+  {
+    "question": "How is my personal data protected?",
+    "answer": "Your data is encrypted and stored securely following GDPR and privacy standards."
+  },
+  {
+    "question": "Can recruiters see my contact details?",
+    "answer": "No, your contact details are hidden until you apply for a job."
+  },
+  {
+    "question": "Can I block a recruiter or company?",
+    "answer": "Yes, go to the company’s profile and select 'Block' to stop all future communication."
+  },
+  {
+    "question": "What happens after I block a company?",
+    "answer": "You will no longer see their job posts or receive messages from that company."
+  },
+  {
+    "question": "Can I unblock a recruiter later?",
+    "answer": "Yes, visit your Blocked List in Settings and select 'Unblock'."
+  },
+  {
+    "question": "Can recruiters message me directly?",
+    "answer": "Yes, if your profile is public and matches their criteria, they can contact you via chat."
+  },
+  {
+    "question": "How can I reply to recruiter messages?",
+    "answer": "Open the Messages tab and type your response directly in the chat window."
+  },
+  {
+    "question": "Can I attach my resume in chat?",
+    "answer": "Yes, you can share your resume or portfolio directly in the chat with recruiters."
+  },
+  {
+    "question": "Can I mute recruiter chat notifications?",
+    "answer": "Yes, long-press the chat and select 'Mute Notifications'."
+  },
+  {
+    "question": "What if a recruiter behaves unprofessionally?",
+    "answer": "You can report the recruiter via the chat options or contact our support team."
+  },
+  {
+    "question": "Are my chats with recruiters private?",
+    "answer": "Yes, all conversations are encrypted and visible only to you and the recruiter."
+  },
+  {
+    "question": "Can I delete old chats?",
+    "answer": "Yes, open the chat list, long-press a conversation, and select 'Delete'."
+  },
+  {
+    "question": "Can I recover deleted messages?",
+    "answer": "No, deleted messages are permanently removed from the system."
+  },
+  {
+    "question": "Can I download my entire chat history?",
+    "answer": "Yes, go to Settings > Privacy > Download Data to export your chat history."
+  },
+  {
+    "question": "Does the app have dark mode?",
+    "answer": "Yes, you can switch between light and dark modes in Appearance Settings."
+  },
+  {
+    "question": "Can I customize the app theme?",
+    "answer": "Currently, only light and dark modes are available; custom themes will be added later."
+  },
+  {
+    "question": "Can I change the app language?",
+    "answer": "Yes, go to Settings > Language and choose from available options."
+  },
+  {
+    "question": "Is Hindi or regional language support available?",
+    "answer": "Yes, multiple Indian languages will be added gradually in upcoming updates."
+  },
+  {
+    "question": "Can I use the app on a tablet or web browser?",
+    "answer": "Yes, the app is compatible with mobile, tablet, and desktop browsers."
+  },
+  {
+    "question": "Does the web version have the same features as the mobile app?",
+    "answer": "Most features are available, though some mobile-exclusive tools may differ slightly."
+  },
+  {
+    "question": "How do I know if a job post is genuine?",
+    "answer": "Check for the employer’s verification badge, read company reviews, and inspect the job details for clarity."
+  },
+  {
+    "question": "What is a verified company badge?",
+    "answer": "A verified badge indicates the company completed identity checks and is trusted to post jobs."
+  },
+  {
+    "question": "Can I apply using my LinkedIn profile?",
+    "answer": "Yes — connect LinkedIn in your profile and you can apply using your LinkedIn resume."
+  },
+  {
+    "question": "Is there a fee to use the basic app features?",
+    "answer": "No, basic job search and applications are free to use."
+  },
+  {
+    "question": "What extra features does premium offer?",
+    "answer": "Premium may include resume reviews, priority recommendations, and interview coaching."
+  },
+  {
+    "question": "How do I upgrade to premium?",
+    "answer": "Go to Settings > Subscription and choose a premium plan to purchase."
+  },
+  {
+    "question": "How is payment handled for premium?",
+    "answer": "Payments are processed securely via the app using your selected payment method (card/UPI/wallet)."
+  },
+  {
+    "question": "Can I get a refund for premium?",
+    "answer": "Refunds follow our refund policy — contact support with your subscription details to request one."
+  },
+  {
+    "question": "Does the app perform background checks?",
+    "answer": "Background checks are performed only if the employer requests them and you consent."
+  },
+  {
+    "question": "How do I give permission for background verification?",
+    "answer": "You’ll receive a consent prompt; approve it to allow the verifier access to necessary details."
+  },
+  {
+    "question": "What personal documents might be requested for verification?",
+    "answer": "Common documents include ID proof, address proof, educational certificates, and past employment proofs."
+  },
+  {
+    "question": "Is my verification data secure?",
+    "answer": "Yes — all verification documents are encrypted and accessed only by authorized verification partners."
+  },
+  {
+    "question": "Does the app support skill assessments?",
+    "answer": "Yes, there are built-in skill tests you can take to showcase competencies to recruiters."
+  },
+  {
+    "question": "How do assessment scores appear to employers?",
+    "answer": "Employers see your assessment score on your profile if you choose to display it."
+  },
+  {
+    "question": "Can I retake skill tests?",
+    "answer": "Yes, most tests allow retakes after a cooldown period to prevent abuse."
+  },
+  {
+    "question": "How do I report a problem with an assessment?",
+    "answer": "Use Help > Report Issue and include the test name and details; support will investigate."
+  },
+  {
+    "question": "What should I do if I see inappropriate content in a job post?",
+    "answer": "Report the post via the three-dot menu and choose 'Report Job' so moderation can review it."
+  },
+  {
+    "question": "How fast are reported jobs reviewed?",
+    "answer": "Reports are typically reviewed within 24–7 hours by our moderation team."
+  },
+  {
+    "question": "Can I create job alerts for specific companies?",
+    "answer": "Yes — follow a company and enable alerts to receive notifications when they post jobs."
+  },
+  {
+    "question": "Do recruiters pay to contact candidates?",
+    "answer": "Recruiters use a paid employer dashboard to access candidate profiles and send messages."
+  },
+  {
+    "question": "How do I hide my profile from employers?",
+    "answer": "Turn on 'Private Profile' in Settings to prevent recruiters from discovering your profile."
+  },
+  {
+    "question": "Will hiding my profile stop me from applying?",
+    "answer": "No, you can still apply to jobs manually even with a private profile."
+  },
+  {
+    "question": "Can I enable job-matching by email only?",
+    "answer": "Yes — in Notification Settings, select email-only alerts for job matches."
+  },
+  {
+    "question": "How do I change my preferred industry?",
+    "answer": "Edit your Job Preferences in your profile and add or remove industries."
+  },
+  {
+    "question": "Can I add references to my profile?",
+    "answer": "Yes, add references under the 'References' section and include contact details or letters."
+  },
+  {
+    "question": "Do employers contact references through the app?",
+    "answer": "Only with your permission; employers request consent before contacting references."
+  },
+  {
+    "question": "Is there a way to see who viewed my profile?",
+    "answer": "Yes, Profile Insights shows recent views — premium may show more detailed analytics."
+  },
+  {
+    "question": "Can I get alerts for similar roles when a job is closed?",
+    "answer": "Yes, enable similar-job suggestions in Notification Settings to receive alternatives."
+  },
+  {
+    "question": "How do I flag a suspicious recruiter message?",
+    "answer": "Open the message, tap the menu, and select 'Report' to notify our trust team."
+  },
+  {
+    "question": "What are the rules for acceptable recruiter behavior?",
+    "answer": "Recruiters must be professional, avoid discriminatory language, and follow our communication policies."
+  },
+  {
+    "question": "Can I apply via mobile web instead of the app?",
+    "answer": "Yes, the mobile web interface supports job search and applications."
+  },
+  {
+    "question": "How do I export my applications for offline records?",
+    "answer": "Go to Settings > Privacy > Download Data to export your applied job list as a CSV file."
+  },
+  {
+    "question": "Is there a way to bulk-apply to multiple jobs?",
+    "answer": "No — to maintain quality, applications must be submitted individually per job."
+  },
+  {
+    "question": "Can I save multiple cover letter versions?",
+    "answer": "Yes, save templates under 'Cover Letters' and pick one when applying."
+  },
+  {
+    "question": "How do I change my employment type preference?",
+    "answer": "Update Job Preferences and toggle Full-time, Part-time, Contract, Internship or Remote options."
+  },
+  {
+    "question": "Does the app support student profiles?",
+    "answer": "Yes — students can create profiles, add education details, and search internships."
+  },
+  {
+    "question": "Can I add portfolio links to my profile?",
+    "answer": "Yes, include links to GitHub, Behance, or personal websites in the Portfolio section."
+  },
+  {
+    "question": "Can I get interview reminders?",
+    "answer": "Yes — enable calendar sync and notifications to receive reminders before interviews."
+  },
+  {
+    "question": "How do I sync interviews with my calendar?",
+    "answer": "From the interview details, tap 'Add to Calendar' and choose your calendar app to sync."
+  },
+  {
+    "question": "What accessibility features does the app offer?",
+    "answer": "The app supports larger text, screen-reader compatibility, and keyboard navigation for accessibility."
+  },
+  {
+    "question": "Can I link certifications to my profile?",
+    "answer": "Yes, add certificates under 'Education & Certifications' and upload supporting PDFs."
+  },
+  {
+    "question": "How do I set salary expectations on my profile?",
+    "answer": "Edit Job Preferences to specify your expected salary range or current CTC."
+  },
+  {
+    "question": "Will employers see my expected salary?",
+    "answer": "Only if you choose to display it; you can keep it private if desired."
+  },
+  {
+    "question": "How do I opt out of recruiter outreach?",
+    "answer": "Toggle off 'Allow recruiters to contact me' in Settings to stop inbound messages."
+  },
+  {
+    "question": "What types of IDs are accepted for verification?",
+    "answer": "Accepted IDs typically include passport, driver’s license, Aadhaar, or national ID cards."
+  },
+  {
+    "question": "How can I update my employment history?",
+    "answer": "Go to Profile > Work Experience and add, edit, or remove past roles."
+  },
+  {
+    "question": "Can I attach work samples to job applications?",
+    "answer": "Yes, attach files or provide links to work samples during the application process."
+  },
+  {
+    "question": "Can I message recruiters directly through the app?",
+    "answer": "Yes, if a recruiter enables chat, you can message them from the job details or message tab."
+  },
+  {
+    "question": "How do I block a recruiter?",
+    "answer": "Open the recruiter’s chat, tap the menu, and select ‘Block Recruiter’ to stop further contact."
+  },
+  {
+    "question": "Can I unblock a recruiter later?",
+    "answer": "Yes, go to Settings > Blocked Users and tap ‘Unblock’ next to the recruiter’s name."
+  },
+  {
+    "question": "How can I view my interview history?",
+    "answer": "Go to ‘My Interviews’ in the dashboard to see all completed and upcoming interviews."
+  },
+  {
+    "question": "How do I cancel an interview?",
+    "answer": "Open the interview details and tap ‘Cancel Interview’; a reason is optional but recommended."
+  },
+  {
+    "question": "Will cancelling an interview affect my profile?",
+    "answer": "Cancelling rarely affects your profile, but frequent cancellations may lower reliability rating."
+  },
+  {
+    "question": "Can I rate my interview experience?",
+    "answer": "Yes, after the interview you’ll get a prompt to rate and share feedback."
+  },
+  {
+    "question": "How do I upload a video resume?",
+    "answer": "Go to Profile > Video Resume and upload or record a short introduction clip."
+  },
+  {
+    "question": "What format is supported for video resumes?",
+    "answer": "MP4 format up to 50 MB is supported for smooth playback."
+  },
+  {
+    "question": "Can recruiters download my video resume?",
+    "answer": "No, videos can be streamed but not downloaded, keeping your privacy secure."
+  },
+  {
+    "question": "Does the app provide AI resume analysis?",
+    "answer": "Yes, the Resume Scanner gives instant feedback on grammar, keywords, and formatting."
+  },
+  {
+    "question": "How often should I update my resume?",
+    "answer": "Update every 3–6 months or whenever you gain new experience or skills."
+  },
+  {
+    "question": "Can I import my resume from Google Drive?",
+    "answer": "Yes, choose ‘Upload from Drive’ when updating your resume."
+  },
+  {
+    "question": "How do I delete my old resume?",
+    "answer": "Open Profile > Resume and tap ‘Delete Current Resume’ before uploading a new one."
+  },
+  {
+    "question": "How can I mark myself as actively looking?",
+    "answer": "Switch on ‘Open to Work’ in your profile visibility settings."
+  },
+  {
+    "question": "Can I pause my job search temporarily?",
+    "answer": "Yes, toggle ‘Pause Applications’ in your settings; you can resume anytime."
+  },
+  {
+    "question": "What is the meaning of ‘Application In Review’?",
+    "answer": "It means the recruiter has received your application and is currently reviewing it."
+  },
+  {
+    "question": "What does ‘Application Viewed’ status indicate?",
+    "answer": "It means the recruiter opened your application details."
+  },
+  {
+    "question": "What does ‘Under Consideration’ mean?",
+    "answer": "You’re shortlisted for further review or the next interview round."
+  },
+  {
+    "question": "What does ‘Rejected’ status mean?",
+    "answer": "Your application wasn’t selected, but you can still apply to other roles."
+  },
+  {
+    "question": "Can I request feedback after rejection?",
+    "answer": "Yes, if the recruiter allows, you can request feedback directly from the application page."
+  },
+  {
+    "question": "Can I mark jobs as ‘Not Interested’?",
+    "answer": "Yes, tap ‘Not Interested’ to remove irrelevant listings from recommendations."
+  },
+  {
+    "question": "How do I refine job alerts to my domain?",
+    "answer": "Go to Notifications > Job Alerts and set your preferred roles, skills, or industries."
+  },
+  {
+    "question": "Can I view salary insights for a position?",
+    "answer": "Yes, many listings show estimated salary ranges based on market data."
+  },
+  {
+    "question": "How accurate are salary estimates?",
+    "answer": "They’re based on employer input and industry averages, so actual offers may vary."
+  },
+  {
+    "question": "Can I negotiate salary through the app?",
+    "answer": "Not directly, but you can discuss compensation during interview or chat with HR."
+  },
+  {
+    "question": "How do I contact technical support?",
+    "answer": "Go to Help > Contact Support and choose chat, email, or callback options."
+  },
+  {
+    "question": "When is customer support available?",
+    "answer": "Support is available Monday to Saturday from 9 AM to 6 PM IST."
+  },
+  {
+    "question": "Can I request new features for the app?",
+    "answer": "Yes, submit feature requests in Feedback > Suggest a Feature."
+  },
+  {
+    "question": "Can I view app usage statistics?",
+    "answer": "Yes, visit Settings > Activity Insights to see login streaks, applications, and views."
+  },
+  {
+    "question": "Is dark mode available?",
+    "answer": "Yes, enable dark mode in Appearance Settings for comfortable viewing at night."
+  },
+  {
+    "question": "Can I change app language?",
+    "answer": "Yes, choose your preferred language in Settings > Language & Region."
+  },
+  {
+    "question": "How do I clear cache to fix loading issues?",
+    "answer": "Go to Settings > Storage > Clear Cache to refresh stored data."
+  },
+  {
+    "question": "What happens if my app version is outdated?",
+    "answer": "Some features may stop working; update from Play Store or App Store for full access."
+  },
+  {
+    "question": "Can I use one account on multiple devices?",
+    "answer": "Yes, log in on multiple devices; your data syncs automatically in real time."
+  },
+  {
+    "question": "Is two-factor authentication available?",
+    "answer": "Yes, enable 2FA for an extra security layer during login."
+  },
+  {
+    "question": "How do I change my registered phone number?",
+    "answer": "Go to Profile > Contact Info and update your phone number; verify with OTP."
+  },
+  {
+    "question": "Can I disable email notifications?",
+    "answer": "Yes, manage notification preferences in Settings > Notifications."
+  },
+  {
+    "question": "Does the app support push notifications?",
+    "answer": "Yes, enable push notifications to get instant job and message alerts."
+  },
+  {
+    "question": "Can I download the app on iOS and Android?",
+    "answer": "Yes, it’s available on both App Store and Google Play."
+  },
+  {
+    "question": "Does the app run on tablets?",
+    "answer": "Yes, the interface is optimized for both phones and tablets."
+  },
+  {
+    "question": "How do I verify my email address?",
+    "answer": "After sign-up, check your inbox for a verification link and click to confirm."
+  },
+  {
+    "question": "What if I don’t receive the verification email?",
+    "answer": "Check spam or request a new verification link from Profile > Email Verification."
+  },
+  {
+    "question": "Can I use the app without verifying my account?",
+    "answer": "You can browse jobs but must verify to apply or contact employers."
+  },
+  {
+    "question": "What if my account is suspended?",
+    "answer": "You’ll receive an email with reason and appeal steps; contact support if needed."
+  },
+  {
+    "question": "Can I appeal a suspension?",
+    "answer": "Yes, submit an appeal form with clarification; our compliance team reviews it."
+  },
+  {
+    "question": "How do I protect my account from scams?",
+    "answer": "Never share OTPs, passwords, or payments outside the app; report suspicious activity immediately."
+  },
+  {
+    "question": "Does the app provide interview tips?",
+    "answer": "Yes, check the Career Resources or Interview Preparation sections for tips and guides."
+  },
+  {
+    "question": "Can I download the interview preparation material?",
+    "answer": "Yes, you can download guides and question sets for offline use."
+  },
+  {
+    "question": "Can I share feedback on recruiters?",
+    "answer": "Yes, rate and comment on recruiters after the hiring process concludes."
+  },
+  {
+    "question": "Are recruiter ratings public?",
+    "answer": "Only average ratings are visible to maintain fairness and privacy."
   }
 ]
